@@ -1,0 +1,25 @@
+/* Add any css you want to use for you website here */
+.home-container{
+  text-align: center;
+  line-height: 90vh;
+}
+.boxtext{
+  display: inline-block;
+  width: 40vw;
+  vertical-align: middle;
+  line-height: 120%;
+  font-size: 16px;
+  padding: 30px;
+  border-radius: 20px;
+  margin: 50px;
+  color: black;
+  font-family: Montserrat;
+}
+table, th, td {
+  border: 1px solid #888;
+  padding: 5px;
+}
+table{
+  width: 100%;
+  margin-bottom: 20px;
+}
